@@ -1,0 +1,46 @@
+{
+    "title": "A Haunted House",
+    "background_color": "#FFFFFF",
+    "font": "Arial",
+    "content": [
+      {
+        "text": "You are standing in front of a spooky haunted house. Do you want to go inside?",
+        "options": [
+          {
+            "text": "Yes",
+            "next": 1
+          },
+          {
+            "text": "No",
+            "next": 2
+          }
+        ]
+      },
+      {
+        "text": "You step inside and see a ghost. Do you want to run away?",
+        "options": [
+          {
+            "text": "Yes",
+            "next": 3
+          },
+          {
+            "text": "No",
+            "next": 4
+          }
+        ]
+      },
+      {
+        "text": "You decide to stay outside. The house is quiet and nothing happens.",
+        "options": []
+      },
+      {
+        "text": "You run away screaming. The ghost laughs at your fear.",
+        "options": []
+      },
+      {
+        "text": "You face the ghost bravely. It vanishes in a puff of smoke.",
+        "options": []
+      }
+    ]
+  }
+  
